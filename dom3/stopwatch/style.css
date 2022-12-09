@@ -1,0 +1,38 @@
+body{
+    background-color: #777;
+   
+}
+.container{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    margin-top: 200px;
+}
+.heading{
+    font-size: 50px;
+}
+.timer{
+    font-size: 30px;
+}
+.controller{
+font-size: 40px;
+
+}
+.btn{
+    font-size: 30px;
+    border-radius: 10px;
+    /* border: none; */
+    opacity: 0.75;
+}
+
+#start:hover{
+background-color: hsl(124, 77%, 50%);
+}
+#pause:hover{
+    background-color: hsl(13, 83%, 46%);
+}
+#reset:hover{
+    background-color: hsl(69, 79%, 44%);
+}

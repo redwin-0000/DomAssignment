@@ -1,0 +1,32 @@
+body{
+    background-color: #777;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+.heading{
+    font-size: 30px;
+}
+.inputfield{
+    font-size: 30px;
+    border-radius: 5px;
+
+}
+.text{
+    /* visibility: hidden; */
+}
+.time{
+    /* visibility: hidden; */
+    font-size: 30px;
+}
+
+/* #textOn:hover{
+visibility: visible;
+}
+#timer:hover{
+    visibility: visible;
+} */

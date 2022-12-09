@@ -1,0 +1,35 @@
+body{
+    background-color: #000;
+}
+.container{
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+    background-color: #777;
+    margin-left: 800px;
+    margin-top: 100px;
+
+}
+.sub-container{
+   
+    margin-left: 50px;
+}
+
+.input{
+    width: 280px;
+    height: 30px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+.flashcard{
+    width: 10vw;
+    height:20vh;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 100px;
+    margin-top: 60px;
+}
+.h3{
+    margin-left: 25px;
+}
